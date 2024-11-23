@@ -1,3 +1,4 @@
+""" Домашнее задание №1 """
 
 class Person:
     def __init__(self, name, age, city):
@@ -15,9 +16,9 @@ class Person:
         print(True if self.age >= 18 else False)
 
 
-quasar1 = Person('Quasar 1', 20, 'Bishkek')
-quasar2 = Person('Quasar 2', 16, 'Bishkek')
-quasar3 = Person('Quasar 3', 22, 'Bishkek')
+quasar1 = Person('Тима', 20, 'Bishkek')
+quasar2 = Person('Умар', 16, 'Bishkek')
+quasar3 = Person('Тилек', 22, 'Bishkek')
 
 persons = [quasar1, quasar2, quasar3]
 
