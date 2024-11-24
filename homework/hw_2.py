@@ -1,3 +1,4 @@
+""" Домашнее задание №2 """
 from main import Hero
 
 
@@ -27,39 +28,3 @@ print(medic.hilling())
 print(medic.rest())
 print(medic.introduce())
 print(medic.minus_mana())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
